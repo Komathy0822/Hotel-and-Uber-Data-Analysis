@@ -2,12 +2,12 @@
 
 # 🚕🏨 Insights into Hotel Stays and Uber Rides in Bangalore
 
-## 📌 Project Overview
+# Project Overview
 This data analysis project explores the interconnected worlds of hospitality and transportation by analyzing data from hotel stays and Uber rides in Bangalore. The goal is to uncover valuable insights that assist hotels, Uber, and travellers in making data-informed decisions.
 
 
 
-## 📊 Key Objectives
+# Key Objectives
 - Analyze customer behaviors, peak travel times, hotel preferences, and fare trends.
 - Identify travel patterns based on trip purpose, travel times, hotel occupancy, and ratings.
 - Visualize complex data with accessible charts for quick business insights.
@@ -15,7 +15,7 @@ This data analysis project explores the interconnected worlds of hospitality and
 
 
 
-## 💻 Tools & Technologies
+# Tools & Technologies
 -**R Programming**
 - **RStudio**
 - **dplyr** for data manipulation
@@ -24,7 +24,7 @@ This data analysis project explores the interconnected worlds of hospitality and
 - **leaflet** for interactive maps
 
 
-## 📈 Analytical Workflow
+# Analytical Workflow
 1. Data Collection & Integration  
 2. Data Cleaning & Manipulation  
 3. Exploratory Data Analysis (EDA)  
@@ -35,7 +35,7 @@ This data analysis project explores the interconnected worlds of hospitality and
 
 
 
-## 🎯 Business Impact
+# Business Insights
 - Helps hotels refine service offerings based on customer preferences and occupancy trends.
 - Assists Uber in aligning ride availability with demand patterns.
 - Supports travelers with fare estimates and optimized options for hotel and ride combinations.
