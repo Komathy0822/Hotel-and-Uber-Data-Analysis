@@ -1,5 +1,4 @@
-# Hotel-and-Uber-Data-Analysis
-
+# Hotel-and-Uber-Data-Analysis [ACADEMIC PROJECT 2]
 # 🚕🏨 Insights into Hotel Stays and Uber Rides in Bangalore
 # Project Overview
 This data analysis project explores the interconnected worlds of hospitality and transportation by analyzing data from hotel stays and Uber rides in Bangalore. The goal is to uncover valuable insights that assist hotels, Uber, and travellers in making data-informed decisions.
